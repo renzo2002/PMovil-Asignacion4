@@ -41,21 +41,34 @@ Para esta siguiente sección se desea explicar la instalación del flutter SDK y
 
 ## Diagrama de despligue
 
+![alt](/Imagenes/deploy.png)
+
 ## Requerimientos no funcionales
 
 ## Requerimientos funcionales
-__RF1: Iniciar sesión:__
+__RF1: Crear un usuario:__
 * data1
 
 __RF2: Cerrar sesión:__
 * data1
 
-__RF3: Cerrar sesión:__
+__RF3: Log in:__
 * data1
 
-__RF4: Cerrar sesión:__
+__RF4: Calificar atención:__
+* data1
+
+__RF5: Ingresar un comentario:__
+* data1
+
+__RF6: Ver mi perfil:__
+* data1
+
+__RF7: Ver actividades:__
 * data1
 
 ## Diagrama de Caso de Uso
+
+![alt](/Imagenes/useCase.png)
 
 ## Descripción de Caso de Uso y Mockups
