@@ -74,3 +74,11 @@ __RF7: Ver actividades:__
 ![alt](/Imagenes/useCase.png)
 
 ## Descripción de Caso de Uso y Mockups
+
+![alt](/Imagenes/m1.png)
+![alt](/Imagenes/m2.png)
+![alt](/Imagenes/m3.png)
+![alt](/Imagenes/m4.png)
+![alt](/Imagenes/m5.png)
+![alt](/Imagenes/m6.png)
+![alt](/Imagenes/m7.png)
