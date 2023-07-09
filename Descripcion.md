@@ -24,5 +24,38 @@ Para esta siguiente sección se desea explicar la instalación del flutter SDK y
 
 ### __Instalación de Flutter:__
 
+![alt](/Imagenes/1.png)
+![alt](/Imagenes/2.png)
+![alt](/Imagenes/3.png)
+![alt](/Imagenes/4.png)
+![alt](/Imagenes/5.png)
+![alt](/Imagenes/6.png)
+![alt](/Imagenes/7.png)
+![alt](/Imagenes/8.png)
+![alt](/Imagenes/9.png)
 
+### __Configuración en VSCode__
 
+![alt](/Imagenes/vs1.png)
+![alt](/Imagenes/vs2.png)
+
+## Diagrama de despligue
+
+## Requerimientos no funcionales
+
+## Requerimientos funcionales
+__RF1: Iniciar sesión:__
+* data1
+
+__RF2: Cerrar sesión:__
+* data1
+
+__RF3: Cerrar sesión:__
+* data1
+
+__RF4: Cerrar sesión:__
+* data1
+
+## Diagrama de Caso de Uso
+
+## Descripción de Caso de Uso y Mockups
