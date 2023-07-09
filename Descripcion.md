@@ -26,14 +26,23 @@ Para esta siguiente sección se desea explicar la instalación del flutter SDK y
 
 ### __Instalación en macOS__
 
+Una vez que se ha ingresado al sitio web de [Flutter](https://flutter.dev/?gclid=Cj0KCQjwtamlBhD3ARIsAARoaEwton1AgvhAKwa5FQS5hw6uB8SWkMsnZ_RfwgQJFs3v1ilvCsuAdOwaAuosEALw_wcB&gclsrc=aw.ds) se debe ir al botón superior y apretar "Get started"
 ![alt](/Imagenes/1.png)
+Aquí encontrarás el apartado de instalación
 ![alt](/Imagenes/2.png)
+Se apreta el botón de MacOs y posteriormente se obtendrá las descargas respectivas en relación a este sistema operativo. 
 ![alt](/Imagenes/3.png)
+Dependiendo del chip de procesador se puede darle click a botón de descarga. 
 ![alt](/Imagenes/4.png)
+Descomprimimos el zip que se descarga y lo colocamos en el path /Users/tusuario/development/. Si no existe esta carpeta, se puede crear. 
 ![alt](/Imagenes/5.png)
+Colocamos los siguientes comando en el terminal.
 ![alt](/Imagenes/6.png)
+Modificamos el zshrc con los siguientes comandos, para editar apretamos i, para salir esc. 
 ![alt](/Imagenes/7.png)
+Con los cambios propuestos finalizamos con esc, :wq para guardar y salir
 ![alt](/Imagenes/8.png)
+En otra terminal ponemos "flutter --version" para confirmar que se ha instalado.
 ![alt](/Imagenes/9.png)
 
 ### __Configuración en VSCode__
