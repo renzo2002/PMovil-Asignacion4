@@ -24,6 +24,8 @@ Para esta siguiente sección se desea explicar la instalación del flutter SDK y
 
 ### __Instalación de Flutter:__
 
+### __Instalación en macOS__
+
 ![alt](/Imagenes/1.png)
 ![alt](/Imagenes/2.png)
 ![alt](/Imagenes/3.png)
