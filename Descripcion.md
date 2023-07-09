@@ -82,3 +82,4 @@ __RF7: Ver actividades:__
 ![alt](/Imagenes/m5.png)
 ![alt](/Imagenes/m6.png)
 ![alt](/Imagenes/m7.png)
+![alt](/Imagenes/mock.png)
