@@ -55,6 +55,17 @@ En otra terminal ponemos "flutter --version" para confirmar que se ha instalado.
 ![alt](/Imagenes/deploy.png)
 
 ## Requerimientos no funcionales
+__RNF1: Seguridad:__
+* La aplicación debe garantizar la seguridad de los datos del usuario, como el almacenamiento seguro de contraseñas al hacer uso de la autentificación de Firebase.
+
+__RNF2: Rendimiento:__
+* La aplicación debe ser rápida y responder de manera eficiente a las interacciones del usuario.
+
+__RNF3: Usabilidad:__
+* La interfaz de usuario debe ser intuitiva y fácil de usar, brindando una experiencia agradable al usuario. 
+
+__RNF4: Compatibilidad:__
+* La aplicación debe ser compatible con diferentes teléfonos móviles y tabletas con diferentes sistemas operativos iOS, Android.
 
 ## Requerimientos funcionales
 __RF1: Crear un usuario:__
@@ -63,7 +74,7 @@ __RF1: Crear un usuario:__
 __RF2: Cerrar sesión:__
 * data1
 
-__RF3: Log in:__
+__RF3: Iniciar sesión__
 * data1
 
 __RF4: Calificar atención:__
@@ -83,12 +94,33 @@ __RF7: Ver actividades:__
 ![alt](/Imagenes/useCase.png)
 
 ## Descripción de Caso de Uso y Mockups
-
-![alt](/Imagenes/m1.png)
+__Caso de uso: Creación de un usuario__
+* El usuario accede a la aplicación y desea registrarse.
 ![alt](/Imagenes/m2.png)
+
+__Caso de uso: Inicio de sesión__
+* El usuario ya posee una cuenta registrada y desea usar sus credenciales para acceder.
+![alt](/Imagenes/m1.png)
+
+__Caso de uso: Visualización de actividades__
+* El usuario busca la actividad que desee calificar en una lista.
 ![alt](/Imagenes/m3.png)
+
+__Caso de uso: Calificación de atención__
+* El usuario desea calificar el nivel de satisfacción en una escala de Likert.
 ![alt](/Imagenes/m4.png)
+
+__Caso de uso: Ingreso de comentario__
+* El usuario en caso desee, puede añadir un comentario para complentar su calificación.
 ![alt](/Imagenes/m5.png)
+
+__Caso de uso: Ingreso de comentario__
+* El usuario puede visualizar su perfil con sus respectivas credenciales.
 ![alt](/Imagenes/m6.png)
+
+__Caso de uso: Cerrar sesión__
+* El usuario si desea puede cerrar su sesión para ya no calificar.
 ![alt](/Imagenes/m7.png)
+
+__Listado de mockups__
 ![alt](/Imagenes/mock.png)
