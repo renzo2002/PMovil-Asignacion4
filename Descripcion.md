@@ -3,7 +3,7 @@
 
 * Sato Diaz, Andrés Kei - 20194786
 
-* Villanueva, Renzo - 2019
+* Villanueva Mora, Renzo Orlando - 20193654
 
 *  Duarte Cabrejos, Juan Pablo - 20190651
 
