@@ -114,7 +114,7 @@ __Caso de uso: Ingreso de comentario__
 * El usuario en caso desee, puede añadir un comentario para complentar su calificación.
 ![alt](/Imagenes/m5.png)
 
-__Caso de uso: Ingreso de comentario__
+__Caso de uso: Visualización de perfil__
 * El usuario puede visualizar su perfil con sus respectivas credenciales.
 ![alt](/Imagenes/m6.png)
 
